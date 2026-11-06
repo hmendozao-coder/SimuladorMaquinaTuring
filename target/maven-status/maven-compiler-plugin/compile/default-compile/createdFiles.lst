@@ -1,0 +1,6 @@
+com\mycompany\simuladormaquinaturing\Cinta.class
+com\mycompany\simuladormaquinaturing\MaquinaTuring.class
+com\mycompany\simuladormaquinaturing\LectorArchivo.class
+com\mycompany\simuladormaquinaturing\SimuladorMaquinaTuring.class
+com\mycompany\simuladormaquinaturing\Transicion.class
+com\mycompany\simuladormaquinaturing\Estado.class
